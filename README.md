@@ -14,7 +14,7 @@ Classify features extracted from mammogram FNA images as malignant or benign bas
 <li>Data preparation</li>
 <li>K-Nearest Neighbor(KNN) Classifier</li>
 <li>Supprt Vector Machine(SVM) Classifier</li>
-<li>Guassina Mixture Models (GMM)</li>
+<li>Guassian Mixture Models (GMM)</li>
 
 # Dependecies
 <li>Python</li>
