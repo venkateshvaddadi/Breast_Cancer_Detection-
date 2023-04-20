@@ -5,9 +5,9 @@ Classify features extracted from mammogram FNA images as malignant or benign bas
 
 # DATASET
 
-<item>WBDC dataset includes 569 instances with class distribution of 357 benign and 212 malignant. </item>
-<item>Each sample consists of ID number, diagnosis (B = benign, M = malignant), and 30 features. </item>
-<item>The features were been computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.</item>
+<li>WBDC dataset includes 569 instances with class distribution of 357 benign and 212 malignant. </li>
+<li>Each sample consists of ID number, diagnosis (B = benign, M = malignant), and 30 features. </li>
+<li>The features were been computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.</li>
 
 # MODELS
 
