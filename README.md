@@ -16,6 +16,12 @@ Classify features extracted from mammogram FNA images as malignant or benign bas
 <li>Supprt Vector Machine(SVM) Classifier</li>
 <li>Guassian Mixture Models (GMM)</li>
 
+
+<li>Decision Tree</li>
+<li>Random Forest</li>
+<li>Logistic regression</li>
+<li></li>
+
 # Dependecies
 <li>Python</li>
 <li>numpy</li>
